@@ -3,14 +3,23 @@
 
 ## About me
 
-I quickly gain experience in many things from the Java language. From my little experience, I can say that until I solve some important problem, I will not be able to sleep normally and spend my free time, since I will be looking for solutions to this problem; it is very important for me to do my work well and on time.
-
-I take great pride in my work and ensure timely delivery. My dedication to problem-solving often keeps me engaged outside working hours. I consider myself a responsible and punctual programmer with a strong work ethic.
-
-I am 29 years old and discovered my passion for programming relatively late. Despite this, I am committed to continuous learning and spend 3 hours on weekdays and 6 hours on weekends honing my skills. 
-
-Beyond technical skills, I value effective communication. I actively engage with my team, participate in discussions, and contribute positively to the collaborative work environment.
-I am always open to new challenges and believe in constant self-improvement.
+Java Developer creating software solutions, including web applications and gaming security
+mechanisms. Specialized in:
+Building web applications using Java Spring and Hibernate.
+Developing anti-cheat mechanisms for the gaming industry.
+Managing efficient database queries and handling logging systems.
+Collaborating in team-based projects, adopting best practices, and ensuring high code
+quality.
+My projects include the "ProjectZomboid Database Panel," a web application providing user
+management and administrative functions. I implemented features such as user deletion,
+registration, user authentication, and introduced a ban system to ensure the security of the
+gaming community.
+I also developed an effective anti-cheat mechanism for a game, actively monitoring and
+countering the illegal use of software. I provide regular updates to the system, introducing
+new methods for detecting and blocking cheats.
+My professional skills include web development using Java Spring and Hibernate, crafting
+efficient database queries, working with the file system for logging and processing
+configuration files, and collaborating in team development, exchanging experiences, and
 
 ## My key technical skills
 ![Alt текст 1](https://camo.githubusercontent.com/a482a29e424558e6b06c876d547fbc9db70b7d905695bfb964fa9eaf281aa322/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d6f72616e676526636f6c6f723d333833383338)
